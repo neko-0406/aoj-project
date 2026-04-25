@@ -1,0 +1,5 @@
+BasedOnStyle: LLVM
+# 中括弧を同じ行に置く設定
+BreakBeforeBraces: Attach
+# インデント幅（お好みで2や4に変更してください）
+IndentWidth: 4
